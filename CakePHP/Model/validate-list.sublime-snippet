@@ -1,0 +1,41 @@
+<snippet>
+	<content><![CDATA[
+alphaNumeric 
+between 
+blank 
+boolean 
+cc 
+comparison 
+custom 
+date 
+datetime 
+decimal 
+email 
+equalTo 
+extension 
+fileSize 
+inList 
+ip 
+luhn 
+maxLength 
+mimeType 
+minLength 
+money 
+multiple 
+naturalNumber 
+notEmpty 
+numeric 
+phone 
+postal 
+range 
+ssn 
+time 
+uploadError 
+url 
+userDefined 
+uuid 
+]]></content>
+	<tabTrigger>validation list</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $valitade = array()</description>
+</snippet>
