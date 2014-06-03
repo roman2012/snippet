@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+\$this->${1:DietSetting} = ClassRegistry::init('${1:DietSetting}');
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>classRegistry</tabTrigger>
+	<description>CakePHP: ClassRegistry::init()</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
+
+

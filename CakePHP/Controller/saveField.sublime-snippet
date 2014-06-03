@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+\$this->${1:User}->saveField('${2:field}', '${3:value}');
+
+]]>
+</content>
+	<tabTrigger>saveField</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->modelName->User</description>
+</snippet>
+

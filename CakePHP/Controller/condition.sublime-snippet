@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+\$conditions = array(
+	'conditions'  => array(
+		'${1:feild}' => $2,
+	),${3:
+	'fields'	  => array(
+		'${4:feild}',
+	),}${5:					
+	'order'	  => array(
+		'${6:feild}',
+	),}
+);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>conditions</tabTrigger>
+	<description>CakePHP: $conditions</description>
+	<scope>source.php</scope>	
+</snippet>

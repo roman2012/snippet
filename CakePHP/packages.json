@@ -1,0 +1,19 @@
+{
+	"schema_version": "1.0",
+	"packages": [
+		{
+			"name": "SublimeCakePHP",
+			"description": "ST2 Package which includes snippets for CakePHP 2.X!",
+			"author": "Amir Moharami",
+			"Url": "www.amirmoharami.ir",
+			"platforms": {
+				"*": [
+					{
+						"version": "1.0.0",
+						"url": "www.amirmoharami.ir"
+					}
+				]
+			}
+		}
+	]
+}

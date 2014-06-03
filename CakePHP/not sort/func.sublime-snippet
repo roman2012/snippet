@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * $1 method
+ *
+ * @return ${2:void}
+ */
+	public function $1($4){
+		$5
+	}]]></content>
+	<tabTrigger>func</tabTrigger>
+</snippet>

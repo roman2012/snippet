@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\$this->${1:User}->findByid(${2:\$id});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>findbyid</tabTrigger>
+	<description>CakePHP: $this->User->findByid($id);</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

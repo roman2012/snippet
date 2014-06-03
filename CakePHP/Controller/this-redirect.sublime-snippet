@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+\$this->redirect(${1:\$this->referer()}${2:array('plugin'=>'${3:pluginname}', 'controller' => '${4:Users}', 'action' => '${5:index}'${6:,\$id})});
+]]>
+</content>
+	<tabTrigger>redirect</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->redirect()</description>
+</snippet>
+

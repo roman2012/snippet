@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+\$displayFields = \$this->${1:TypeList}->displayFields();
+]]>
+</content>
+	<tabTrigger>displayFields</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $displayFields =</description>
+</snippet>
+

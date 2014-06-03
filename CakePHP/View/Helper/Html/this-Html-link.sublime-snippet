@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Html->link("$1", array(${2:'plugin'=>'$3', 'controller'=>'$4', }'action'=>'$5')${6:,array('class'=>'${7:btn}')});$8]]></content>
+	<tabTrigger>link</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Html->link()</description>
+</snippet>

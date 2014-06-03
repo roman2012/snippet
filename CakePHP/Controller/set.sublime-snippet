@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$this->set('${1:data}',\$d);$2
+]]></content>
+	<tabTrigger>set</tabTrigger>
+	<description>CakePHP: $this->set</description>
+</snippet>

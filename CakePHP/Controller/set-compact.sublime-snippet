@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->set(compact('${1:user}'${2:,'${3:fo}'${4:,'${5:temp}'}}));
+
+]]></content>
+	<tabTrigger>setcompact</tabTrigger>
+	<description>CakePHP: $this->set(compact())</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\$this->${1:User}->find('${2:all}',\$conditions);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>findall</tabTrigger>
+	<description>CakePHP: $this->User->find('all',$conditions);</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

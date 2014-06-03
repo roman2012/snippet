@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * Model name
+ *
+ * @var string
+ * @access public
+ */
+	public \$name = '${1:Comment}';
+]]></content>
+	<tabTrigger>name</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: public $name</description>
+</snippet>

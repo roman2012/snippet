@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<?php echo __('${1:text}'); ?>
+    	]]></content>
+    <tabTrigger>echo</tabTrigger>
+  
+    <description>echo "__()"</description>
+</snippet>

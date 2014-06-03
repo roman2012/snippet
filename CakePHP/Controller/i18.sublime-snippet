@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+__d('Behandam','${1:your message}')
+]]></content>
+	<tabTrigger>_</tabTrigger>
+	<description>CakePHP: __d('message')</description>
+</snippet>

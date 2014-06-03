@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * useTable
+ *
+ * @var string
+ */
+	public \$useTable = '${1:product_categories}';
+]]></content>
+	<tabTrigger>usetable</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $useTable</description>
+</snippet>

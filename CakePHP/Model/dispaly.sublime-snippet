@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * Display fields for this model
+ *
+ * @var array
+ */
+	protected \$_displayFields = array(
+		'${1:id}',
+		'${2:title}' =>  '${4:عنوان}',
+	);
+]]></content>
+	<tabTrigger>display</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $_displayFields</description>
+</snippet>

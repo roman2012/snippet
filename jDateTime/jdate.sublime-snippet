@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\$date = new jDateTime(true, true, 'Asia/Tehran');
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>jdate</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
