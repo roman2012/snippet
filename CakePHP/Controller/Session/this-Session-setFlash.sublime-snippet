@@ -1,6 +1,6 @@
 <snippet>
 <content><![CDATA[
-\$this->Session->setFlash(__('Behandam', '${1:message}')${2:,'default',array('class'=>'${3:success}')});
+\$this->Session->setFlash(__d('Behandam', '${1:message}')${2:,'default',array('class'=>'${3:success}')});
 ]]>
 </content>
 	<tabTrigger>setFlash</tabTrigger>
