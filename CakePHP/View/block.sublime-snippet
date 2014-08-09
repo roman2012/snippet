@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<?php 
+	// block script bottom
+	\$this->start('scriptBottom');
+	  \$this->Html->script('Spinner/spinner.min', array('block' => 'scriptBottom'));
+	\$this->end();
+	 
+	// block config-script
+	\$this->start('config-script');
+
+	\$this->end();
+?>
+
+]]></content>
+	<tabTrigger>block</tabTrigger>
+<!-- 	<scope>source.php</scope> -->
+	<description>CakePHP: $this->start</description>
+</snippet>
